@@ -1,5 +1,3 @@
-# animated-guide
-Te invito a mi cumpleaños 🎂
 <!DOCTYPE html><html lang="es">
 <head>
     <meta charset="UTF-8">
